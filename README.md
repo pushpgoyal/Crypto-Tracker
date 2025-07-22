@@ -41,9 +41,6 @@ A simple and powerful web app that tracks real-time cryptocurrency prices using 
 
 
 📁 Project Structure
-bash
-Copy
-Edit
 crypto-tracker/
 ├── app.py           # Streamlit frontend for chart
 ├── data.py          # Script to fetch and store data from CoinGecko
@@ -53,9 +50,6 @@ crypto-tracker/
 🗝️ .env Example
 Create a .env file with the following:
 
-ini
-Copy
-Edit
 DB_HOST=localhost
 DB_USER=your_mysql_username
 DB_PASS=your_mysql_password
