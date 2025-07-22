@@ -29,7 +29,6 @@ A simple and powerful web app that tracks real-time cryptocurrency prices using 
 
 1. **Clone the repo**
 
-   ```bash
    git clone https://github.com/your-username/crypto-tracker.git
    cd crypto-tracker
 
